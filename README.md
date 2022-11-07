@@ -10,11 +10,11 @@
 
 
 ### :man_technologist: About Me :
-- 💻: I’m working as a Embedded Software Developer.
+- 💻: I’m working as an Embedded Software Developer.
 
 - 🔭: I'm interested in autonomous systems, robotics and avionics.
 
-- 🌱: In my free time, I reading books, design and draw things in Solidworks and riding bicycle 🚴
+- 🌱: In my free time, I read books, design and draw things in Solidworks and ride bicycle 🚴
 
 - 🏃‍♂️: I participated in UAV ✈️, UUV, USV 🛥️, and Model Satellite 🛰️ competitions in Turkiye
 
