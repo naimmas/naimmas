@@ -10,13 +10,10 @@
 
 
 ### :man_technologist: About Me :
-- 💻: I’m working as an Embedded Software Engineer.
 
 - 🔭: I'm interested in autonomous systems, robotics and avionics.
 
 - 🏃‍♂️: I participated in UAV ✈️, UUV, USV 🛥️, and Model Satellite 🛰️ competitions in Turkiye
-
-- 🎹: Can't code without listening to classical music
 
 -  🐈 Cats and 🕷️ Spiders are the best because they chase and catch bugs 🐛
 
