@@ -36,7 +36,7 @@ platforms. Enthusiastic about aerospace and committed to continuous learning.
 
 <p align="center">
   <img width="400px" height="200px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=naimmas&show_icons=true&theme=vue-dark&include_all_commits=true"/> &nbsp;&nbsp;
-  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimmas&theme=vue-dark&hide_border=true&border_radius=5&short_numbers=true"/>
+  <img width="400px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=naimmas&theme=vue-dark&hide_border=true&border_radius=5&short_numbers=false"/>
 </p>
 
 ## 😃 Joke of The Day
